@@ -236,7 +236,7 @@ export default function App() {
                   <Code2 className="text-white" size={20} />
                   <div>
                     <div className="text-xs text-blue-200">Experience</div>
-                    <div className="font-bold">2.7+ Years</div>
+                    <div className="font-bold">2+ Years</div>
                   </div>
                 </div>
               </div>
@@ -275,7 +275,7 @@ export default function App() {
 
             <p className="text-lg text-gray-400 leading-relaxed max-w-xl">
               I'm a passionate software developer specializing in <span className="text-blue-400 font-semibold hover:text-blue-300 transition-colors cursor-pointer">Python</span>, <span className="text-purple-400 font-semibold hover:text-purple-300 transition-colors cursor-pointer">Flask</span>, and <span className="text-pink-400 font-semibold hover:text-pink-300 transition-colors cursor-pointer">FastAPI</span>. 
-              With over 2.7 years of hands-on experience, I architect scalable web applications, design robust ETL pipelines, and integrate complex payment systems. 
+              With over 2+ years of hands-on experience, I architect scalable web applications, design robust ETL pipelines, and integrate complex payment systems. 
               I transform business requirements into elegant, high-performance solutions that drive real results.
             </p>
 
