@@ -153,7 +153,7 @@ export default function App() {
                 </button>
               ))}
               <a 
-                href="https://drive.google.com/uc?export=download&id=1rQ2wqQgrGJY3NZ6RHcjELsHhYoEF1Sav" 
+                href="https://drive.google.com/file/d/1P053dwPGMYp4uGkR9xGkpX7r_Z0EGvJz/view?usp=sharing" 
                 download="Amlan_Chahataray_Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
