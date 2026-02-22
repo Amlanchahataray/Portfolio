@@ -95,7 +95,7 @@ export default function App() {
                   <span className={`absolute -bottom-1 left-0 h-0.5 bg-blue-500 transition-all ${activeSection === section ? 'w-full' : 'w-0 group-hover:w-full'}`} />
                 </button>
               ))}
-              <a href="https://drive.google.com/file/d/1P053dwPGMYp4uGkR9xGkpX7r_Z0EGvJz/view?usp=sharing" target="_blank" rel="noopener noreferrer"
+              <a href="https://drive.google.com/file/d/1T9L6fH1l01ruct8tGaRmjJqnIVZGuTzZ/view?usp=sharing" target="_blank" rel="noopener noreferrer"
                 className="flex items-center gap-2 bg-gradient-to-r from-blue-600 to-purple-600 px-4 py-2 rounded-lg hover:shadow-lg hover:shadow-blue-500/50 transition-all hover:scale-105">
                 <Download size={16} /><span className="text-sm">Resume</span>
               </a>
