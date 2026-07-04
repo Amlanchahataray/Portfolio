@@ -141,7 +141,7 @@ export default function App() {
               <div className="absolute -right-4 top-16 bg-gradient-to-br from-blue-600 to-blue-700 rounded-2xl px-4 py-3 shadow-2xl shadow-blue-500/50 hover:scale-110 transition-transform cursor-pointer">
                 <div className="flex items-center gap-2">
                   <Code2 className="text-white" size={20} />
-                  <div><div className="text-xs text-blue-200">Experience</div><div className="font-bold">2.7 Years</div></div>
+                  <div><div className="text-xs text-blue-200">Experience</div><div className="font-bold">3 Years</div></div>
                 </div>
               </div>
               <div className="absolute -left-4 bottom-24 bg-gradient-to-br from-purple-600 to-purple-700 rounded-2xl px-4 py-3 shadow-2xl shadow-purple-500/50 hover:scale-110 transition-transform cursor-pointer">
@@ -164,7 +164,7 @@ export default function App() {
             </div>
             <p className="text-lg text-gray-400 leading-relaxed max-w-xl">
               I'm a passionate software developer specializing in <span className="text-blue-400 font-semibold">Python</span>, <span className="text-purple-400 font-semibold">Flask</span>, and <span className="text-pink-400 font-semibold">FastAPI</span>.
-              With over 2.7 years of hands-on experience, I architect scalable web applications, design robust ETL pipelines, and integrate complex payment systems.
+              With over 3 years of hands-on experience, I architect scalable web applications, design robust ETL pipelines, and integrate complex payment systems.
               I transform business requirements into elegant, high-performance solutions that drive real results.
             </p>
             <div className="flex flex-wrap gap-4">
